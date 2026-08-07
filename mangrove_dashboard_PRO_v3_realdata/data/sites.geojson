@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": "BV_BV_Beterverwagting_SQUARE_100m",
+        "prefix": "BV",
+        "source_kml": "BV_Beterverwagting_SQUARE_100m (1).kml",
+        "name": "BV_BV_Beterverwagting_SQUARE_100m"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -58.06261135,
+              6.81678084
+            ],
+            [
+              -58.06170665,
+              6.81678084
+            ],
+            [
+              -58.06170665,
+              6.81767916
+            ],
+            [
+              -58.06261135,
+              6.81767916
+            ],
+            [
+              -58.06261135,
+              6.81678084
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": "MR_MR_Mon_Repos_SQUARE_100m",
+        "prefix": "MR",
+        "source_kml": "MR_Mon_Repos_SQUARE_100m (1).kml",
+        "name": "MR_MR_Mon_Repos_SQUARE_100m"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -58.05288135,
+              6.81242384
+            ],
+            [
+              -58.05197665,
+              6.81242384
+            ],
+            [
+              -58.05197665,
+              6.81332216
+            ],
+            [
+              -58.05288135,
+              6.81332216
+            ],
+            [
+              -58.05288135,
+              6.81242384
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "site_id": "LBI_LBI_La_Bonne_Intention_SQUARE_100m",
+        "prefix": "LBI",
+        "source_kml": "LBI_La_Bonne_Intention_SQUARE_100m (1).kml",
+        "name": "LBI_LBI_La_Bonne_Intention_SQUARE_100m"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -58.06044235,
+              6.81537884
+            ],
+            [
+              -58.05953765,
+              6.81537884
+            ],
+            [
+              -58.05953765,
+              6.81627716
+            ],
+            [
+              -58.06044235,
+              6.81627716
+            ],
+            [
+              -58.06044235,
+              6.81537884
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
